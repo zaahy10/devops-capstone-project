@@ -1,1 +1,9 @@
+name: {name here}
+on:
+  push:
+    branches:
+      - {branch_name}
+  pull_request:
+    branches:
+      - {branch_name}
 
